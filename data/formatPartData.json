@@ -1,0 +1,341 @@
+[{
+  "key": "lunao",
+  "name": "颅脑",
+  "partKey": "toubu",
+  "partName": "头部"
+}, {
+  "key": "kou",
+  "name": "口",
+  "partKey": "toubu",
+  "partName": "头部"
+}, {
+  "key": "yanhou",
+  "name": "咽喉",
+  "partKey": "toubu",
+  "partName": "头部"
+}, {
+  "key": "bi",
+  "name": "鼻",
+  "partKey": "toubu",
+  "partName": "头部"
+}, {
+  "key": "yan",
+  "name": "眼",
+  "partKey": "toubu",
+  "partName": "头部"
+}, {
+  "key": "er",
+  "name": "耳",
+  "partKey": "toubu",
+  "partName": "头部"
+}, {
+  "key": "mianbu",
+  "name": "面部",
+  "partKey": "toubu",
+  "partName": "头部"
+}, {
+  "key": "jiazhuangxian",
+  "name": "甲状腺",
+  "partKey": "jingbu",
+  "partName": "颈部"
+}, {
+  "key": "qiguan",
+  "name": "气管",
+  "partKey": "jingbu",
+  "partName": "颈部"
+}, {
+  "key": "rufang",
+  "name": "乳房",
+  "partKey": "xiongbu",
+  "partName": "胸部"
+}, {
+  "key": "fei",
+  "name": "肺",
+  "partKey": "xiongbu",
+  "partName": "胸部"
+}, {
+  "key": "xinzang",
+  "name": "心脏",
+  "partKey": "xiongbu",
+  "partName": "胸部"
+}, {
+  "key": "shiguan",
+  "name": "食管",
+  "partKey": "xiongbu",
+  "partName": "胸部"
+}, {
+  "key": "zongge",
+  "name": "纵膈",
+  "partKey": "xiongbu",
+  "partName": "胸部"
+}, {
+  "key": "geji",
+  "name": "膈肌",
+  "partKey": "xiongbu",
+  "partName": "胸部"
+}, {
+  "key": "yixian",
+  "name": "胰腺",
+  "partKey": "fubu",
+  "partName": "腹部"
+}, {
+  "key": "gan",
+  "name": "肝",
+  "partKey": "fubu",
+  "partName": "腹部"
+}, {
+  "key": "wei",
+  "name": "胃",
+  "partKey": "fubu",
+  "partName": "腹部"
+}, {
+  "key": "dan",
+  "name": "胆",
+  "partKey": "fubu",
+  "partName": "腹部"
+}, {
+  "key": "chang",
+  "name": "肠",
+  "partKey": "fubu",
+  "partName": "腹部"
+}, {
+  "key": "lanwei",
+  "name": "阑尾",
+  "partKey": "fubu",
+  "partName": "腹部"
+}, {
+  "key": "pi",
+  "name": "脾",
+  "partKey": "fubu",
+  "partName": "腹部"
+}, {
+  "key": "fumo",
+  "name": "腹膜",
+  "partKey": "fubu",
+  "partName": "腹部"
+}, {
+  "key": "changximo",
+  "name": "肠系膜",
+  "partKey": "fubu",
+  "partName": "腹部"
+}, {
+  "key": "shen",
+  "name": "肾",
+  "partKey": "yaobu",
+  "partName": "腰部"
+}, {
+  "key": "shuniaoguan",
+  "name": "输尿管",
+  "partKey": "yaobu",
+  "partName": "腰部"
+}, {
+  "key": "shenshangxian",
+  "name": "肾上腺",
+  "partKey": "yaobu",
+  "partName": "腰部"
+}, {
+  "key": "jianbu",
+  "name": "肩部",
+  "partKey": "shangzhi",
+  "partName": "上肢"
+}, {
+  "key": "shoubu",
+  "name": "手部",
+  "partKey": "shangzhi",
+  "partName": "上肢"
+}, {
+  "key": "zhoubu",
+  "name": "肘部",
+  "partKey": "shangzhi",
+  "partName": "上肢"
+}, {
+  "key": "shangbi",
+  "name": "上臂",
+  "partKey": "shangzhi",
+  "partName": "上肢"
+}, {
+  "key": "xibu",
+  "name": "膝部",
+  "partKey": "xiazhi",
+  "partName": "下肢"
+}, {
+  "key": "zubu",
+  "name": "足部",
+  "partKey": "xiazhi",
+  "partName": "下肢"
+}, {
+  "key": "xiaotui",
+  "name": "小腿",
+  "partKey": "xiazhi",
+  "partName": "下肢"
+}, {
+  "key": "datui",
+  "name": "大腿",
+  "partKey": "xiazhi",
+  "partName": "下肢"
+}, {
+  "key": "jizhu",
+  "name": "脊柱",
+  "partKey": "gu",
+  "partName": "骨"
+}, {
+  "key": "guanjie",
+  "name": "关节",
+  "partKey": "gu",
+  "partName": "骨"
+}, {
+  "key": "xiazhigu",
+  "name": "下肢骨",
+  "partKey": "gu",
+  "partName": "骨"
+}, {
+  "key": "qitagu",
+  "name": "其他骨",
+  "partKey": "gu",
+  "partName": "骨"
+}, {
+  "key": "leigu",
+  "name": "肋骨",
+  "partKey": "gu",
+  "partName": "骨"
+}, {
+  "key": "jisui",
+  "name": "脊髓",
+  "partKey": "gu",
+  "partName": "骨"
+}, {
+  "key": "pengu",
+  "name": "盆骨",
+  "partKey": "gu",
+  "partName": "骨"
+}, {
+  "key": "gusui",
+  "name": "骨髓",
+  "partKey": "gu",
+  "partName": "骨"
+}, {
+  "key": "shangzhigu",
+  "name": "上肢骨",
+  "partKey": "gu",
+  "partName": "骨"
+}, {
+  "key": "lugu",
+  "name": "颅骨",
+  "partKey": "gu",
+  "partName": "骨"
+}, {
+  "key": "qianliexian",
+  "name": "前列腺",
+  "partKey": "nanxingshengzhi",
+  "partName": "男性生殖"
+}, {
+  "key": "yinjing",
+  "name": "阴茎",
+  "partKey": "nanxingshengzhi",
+  "partName": "男性生殖"
+}, {
+  "key": "gaowan",
+  "name": "睾丸",
+  "partKey": "nanxingshengzhi",
+  "partName": "男性生殖"
+}, {
+  "key": "yinnang",
+  "name": "阴囊",
+  "partKey": "nanxingshengzhi",
+  "partName": "男性生殖"
+}, {
+  "key": "shujingguan",
+  "name": "输精管",
+  "partKey": "nanxingshengzhi",
+  "partName": "男性生殖"
+}, {
+  "key": "zigong",
+  "name": "子宫",
+  "partKey": "nvxingshengzhi",
+  "partName": "女性生殖"
+}, {
+  "key": "yindao",
+  "name": "阴道",
+  "partKey": "nvxingshengzhi",
+  "partName": "女性生殖"
+}, {
+  "key": "shuluanguan",
+  "name": "输卵管",
+  "partKey": "nvxingshengzhi",
+  "partName": "女性生殖"
+}, {
+  "key": "luanchao",
+  "name": "卵巢",
+  "partKey": "nvxingshengzhi",
+  "partName": "女性生殖"
+}, {
+  "key": "waiyin",
+  "name": "外阴",
+  "partKey": "nvxingshengzhi",
+  "partName": "女性生殖"
+}, {
+  "key": "niaodao",
+  "name": "尿道",
+  "partKey": "penqiang",
+  "partName": "盆腔"
+}, {
+  "key": "bangguang",
+  "name": "膀胱",
+  "partKey": "penqiang",
+  "partName": "盆腔"
+}, {
+  "key": "xueyexueguan",
+  "name": "血液血管",
+  "partKey": "quanshen",
+  "partName": "全身"
+}, {
+  "key": "pifu",
+  "name": "皮肤",
+  "partKey": "quanshen",
+  "partName": "全身"
+}, {
+  "key": "mianyixitong",
+  "name": "免疫系统",
+  "partKey": "quanshen",
+  "partName": "全身"
+}, {
+  "key": "zhouweishenjingxitong",
+  "name": "周围神经系统",
+  "partKey": "quanshen",
+  "partName": "全身"
+}, {
+  "key": "linba",
+  "name": "淋巴",
+  "partKey": "quanshen",
+  "partName": "全身"
+}, {
+  "key": "jirou",
+  "name": "肌肉",
+  "partKey": "quanshen",
+  "partName": "全身"
+}, {
+  "key": "tunbu",
+  "name": "臀部",
+  "partKey": "tunbu",
+  "partName": "臀部"
+}, {
+  "key": "huiyinbu",
+  "name": "会阴部",
+  "partKey": "huiyinbu",
+  "partName": "会阴部"
+}, {
+  "key": "xinli",
+  "name": "心理",
+  "partKey": "xinli",
+  "partName": "心理"
+}, {
+  "key": "beibu",
+  "name": "背部",
+  "partKey": "beibu",
+  "partName": "背部"
+}, {
+  "key": "qita",
+  "name": "其他",
+  "partKey": "qita",
+  "partName": "其他"
+}]

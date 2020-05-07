@@ -1,0 +1,216 @@
+[{
+  "key": "huxineike",
+  "name": "呼吸内科",
+  "departmentKey": "neike",
+  "departmentName": "内科"
+}, {
+  "key": "xinneike",
+  "name": "心内科",
+  "departmentKey": "neike",
+  "departmentName": "内科"
+}, {
+  "key": "shenjingneike",
+  "name": "神经内科",
+  "departmentKey": "neike",
+  "departmentName": "内科"
+}, {
+  "key": "fengshixingmianyi",
+  "name": "风湿免疫科",
+  "departmentKey": "neike",
+  "departmentName": "内科"
+}, {
+  "key": "neifenmike",
+  "name": "内分泌科",
+  "departmentKey": "neike",
+  "departmentName": "内科"
+}, {
+  "key": "xueyeke",
+  "name": "血液科",
+  "departmentKey": "neike",
+  "departmentName": "内科"
+}, {
+  "key": "xiaohuaneike",
+  "name": "消化内科",
+  "departmentKey": "neike",
+  "departmentName": "内科"
+}, {
+  "key": "yichuanbingke",
+  "name": "遗传病科",
+  "departmentKey": "neike",
+  "departmentName": "内科"
+}, {
+  "key": "shenneike",
+  "name": "肾内科",
+  "departmentKey": "neike",
+  "departmentName": "内科"
+}, {
+  "key": "miniaoneike",
+  "name": "泌尿内科",
+  "departmentKey": "neike",
+  "departmentName": "内科"
+}, {
+  "key": "xinxiongwaike",
+  "name": "心胸外科",
+  "departmentKey": "waike",
+  "departmentName": "外科"
+}, {
+  "key": "ganranke",
+  "name": "感染科",
+  "departmentKey": "waike",
+  "departmentName": "外科"
+}, {
+  "key": "puwaike",
+  "name": "普外科",
+  "departmentKey": "waike",
+  "departmentName": "外科"
+}, {
+  "key": "guwaike",
+  "name": "骨外科",
+  "departmentKey": "waike",
+  "departmentName": "外科"
+}, {
+  "key": "gangchangke",
+  "name": "肛肠科",
+  "departmentKey": "waike",
+  "departmentName": "外科"
+}, {
+  "key": "gandanwaike",
+  "name": "肝胆外科",
+  "departmentKey": "waike",
+  "departmentName": "外科"
+}, {
+  "key": "miniaowaike",
+  "name": "泌尿外科",
+  "departmentKey": "waike",
+  "departmentName": "外科"
+}, {
+  "key": "shaoshangke",
+  "name": "烧伤科",
+  "departmentKey": "waike",
+  "departmentName": "外科"
+}, {
+  "key": "shenjingwaike",
+  "name": "神经外科",
+  "departmentKey": "waike",
+  "departmentName": "外科"
+}, {
+  "key": "zhengxingmeirongke",
+  "name": "整形美容科",
+  "departmentKey": "waike",
+  "departmentName": "外科"
+}, {
+  "key": "chanke",
+  "name": "产科",
+  "departmentKey": "fuchanke",
+  "departmentName": "妇产科"
+}, {
+  "key": "fuke",
+  "name": "妇科",
+  "departmentKey": "fuchanke",
+  "departmentName": "妇产科"
+}, {
+  "key": "xiaoerneike",
+  "name": "小儿内科",
+  "departmentKey": "erke",
+  "departmentName": "儿科"
+}, {
+  "key": "erkezonghe",
+  "name": "儿科综合",
+  "departmentKey": "erke",
+  "departmentName": "儿科"
+}, {
+  "key": "xiaoerwaike",
+  "name": "小儿外科",
+  "departmentKey": "erke",
+  "departmentName": "儿科"
+}, {
+  "key": "pifuke",
+  "name": "皮肤科",
+  "departmentKey": "pifuxingbingke",
+  "departmentName": "皮肤性病科"
+}, {
+  "key": "xingbingke",
+  "name": "性病科",
+  "departmentKey": "pifuxingbingke",
+  "departmentName": "皮肤性病科"
+}, {
+  "key": "yanke",
+  "name": "眼科",
+  "departmentKey": "wuguanke",
+  "departmentName": "五官科"
+}, {
+  "key": "erbihouke",
+  "name": "耳鼻喉科",
+  "departmentKey": "wuguanke",
+  "departmentName": "五官科"
+}, {
+  "key": "kouqiangke",
+  "name": "口腔科",
+  "departmentKey": "wuguanke",
+  "departmentName": "五官科"
+}, {
+  "key": "zhongyizonghe",
+  "name": "中医综合",
+  "departmentKey": "zhongyike",
+  "departmentName": "中医科"
+}, {
+  "key": "zhongliuneike",
+  "name": "肿瘤内科",
+  "departmentKey": "zhongliuke",
+  "departmentName": "肿瘤科"
+}, {
+  "key": "zhongliuwaike",
+  "name": "肿瘤外科",
+  "departmentKey": "zhongliuke",
+  "departmentName": "肿瘤科"
+}, {
+  "key": "kangfuke",
+  "name": "康复科",
+  "departmentKey": "qitakeshi",
+  "departmentName": "其他科室"
+}, {
+  "key": "qitazonghe",
+  "name": "其他综合",
+  "departmentKey": "qitakeshi",
+  "departmentName": "其他科室"
+}, {
+  "key": "buyunbuyu",
+  "name": "不孕不育",
+  "departmentKey": "shengzhijiankang",
+  "departmentName": "生殖健康"
+}, {
+  "key": "jizhenke",
+  "name": "急诊科",
+  "departmentKey": "jizhenke",
+  "departmentName": "急诊科"
+}, {
+  "key": "nanke",
+  "name": "男科",
+  "departmentKey": "nanke",
+  "departmentName": "男科"
+}, {
+  "key": "ganbing",
+  "name": "肝病",
+  "departmentKey": "ganbing",
+  "departmentName": "肝病"
+}, {
+  "key": "chuanranke",
+  "name": "传染科",
+  "departmentKey": "chuanranke",
+  "departmentName": "传染科"
+}, {
+  "key": "xinlike",
+  "name": "心理科",
+  "departmentKey": "xinlike",
+  "departmentName": "心理科"
+}, {
+  "key": "jingshenke",
+  "name": "精神科",
+  "departmentKey": "jingshenke",
+  "departmentName": "精神科"
+}, {
+  "key": "yingyangke",
+  "name": "营养科",
+  "departmentKey": "yingyangke",
+  "departmentName": "营养科"
+}]

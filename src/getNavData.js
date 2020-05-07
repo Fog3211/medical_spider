@@ -70,17 +70,3 @@ const getKeyFromHref = (url) => {
   return url.replace(baseUrl, '')
     .replace(/\//g, '')
 }
-
-// superagent.get(baseUrl + '/jbzz/').end((err, res) => {
-//   if (!err) {
-//     const result = getTestData(res)
-//     const file = path.join(__dirname, './test1.json');
-//     fs.writeFile(file, JSON.stringify(result), () => {})
-//   }
-// })
-// const getTestData = () => {
-//   for (let index = 2; index < 1499; index++) {
-//     const path = '?page=' + index
-//     superagent.get()
-//   }
-// }
