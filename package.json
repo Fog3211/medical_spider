@@ -1,0 +1,25 @@
+{
+  "name": "medical_spider",
+  "version": "1.0.0",
+  "description": "node爬虫，爬取医疗疾病数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fog3211/medical_spider.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fog3211/medical_spider/issues"
+  },
+  "homepage": "https://github.com/fog3211/medical_spider#readme",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.3",
+    "superagent": "5.2.2"
+  }
+}
