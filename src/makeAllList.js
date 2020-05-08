@@ -10,14 +10,12 @@ const result = []
 
 partNavList.map(partItem1 => {
   departmentNavList.map(departmentItem2 => {
-    const path = `${baseUrl}/${partItem1.partKey}/${departmentItem2.departmentKey}`
+    const path = `${baseUrl}/${partItem1.key}/${departmentItem2.key}`
     result.push({
-      partKey: partItem1.partKey,
-      partName: partItem1.partName,
-      departmentKey: departmentItem2.departmentKey,
-      departmentName: departmentItem2.departmentName,
-      key: departmentItem2.key,
-      name: departmentItem2.name,
+      partKey: partItem1.key,
+      partName: partItem1.name,
+      departmentKey: departmentItem2.key,
+      departmentName: departmentItem2.name,
       path
     })
   })
